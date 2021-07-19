@@ -1,0 +1,5 @@
+{
+	"mongo":{
+		"uri":"mongodb+srv://wamya:wamya@cluster0.7xqcd.mongodb.net/OrangeAdmin?retryWrites=true&w=majority"
+	}
+}
